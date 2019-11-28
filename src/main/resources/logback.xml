@@ -16,7 +16,7 @@
 			<FileNamePattern>log.%d{yyyy-MM-dd}.log</FileNamePattern>
 
 			<!-- keep 30 days' worth of history -->
-			<maxHistory>30</maxHistory>
+			<maxHistory>5</maxHistory>
 		</rollingPolicy>
 		
 		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
