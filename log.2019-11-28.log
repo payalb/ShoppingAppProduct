@@ -1,0 +1,198 @@
+11:28 21:51:15.125 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 13336 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 21:51:15.127 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 21:58:35.757 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 11700 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 21:58:35.759 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 21:59:42.226 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 25588 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 21:59:42.230 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 22:00:12.705 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 10736 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:00:12.708 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 22:01:24.091 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 25036 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:01:24.095 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 22:01:59.155 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 11332 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:01:59.161 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 22:02:34.413 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 16844 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:02:34.416 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: prod
+11:28 22:04:30.141 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19180 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:04:30.144 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:04:39.183 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 9.501 seconds (JVM running for 11.302)
+11:28 22:04:39.198 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:04:39.332 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:04:39.332 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:04:39.336 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:07:12.473 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:07:12.534 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:07:27.124 [http-nio-9000-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:07:27.127 [http-nio-9000-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:08:40.558 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19180 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:08:40.558 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:12:29.705 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 25512 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:12:29.709 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:12:37.896 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 8.688 seconds (JVM running for 10.867)
+11:28 22:12:37.922 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:12:38.054 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:12:38.055 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:12:38.063 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:14:55.226 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:14:55.289 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:23:04.534 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 15264 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:23:04.537 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:23:13.486 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 9.444 seconds (JVM running for 11.622)
+11:28 22:23:13.509 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:23:13.655 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:23:13.655 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:23:13.660 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:23:20.853 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:23:20.913 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:36:56.839 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19820 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:36:56.843 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:37:05.313 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 8.888 seconds (JVM running for 10.994)
+11:28 22:37:05.341 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:37:05.597 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:37:05.598 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:37:05.604 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:37:09.105 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19820 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:37:09.105 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:37:11.673 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 2.607 seconds (JVM running for 17.354)
+11:28 22:37:11.678 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:37:11.692 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:37:11.693 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:37:11.695 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:37:16.970 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:37:17.013 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:37:44.056 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19820 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:37:44.056 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:37:45.648 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.627 seconds (JVM running for 51.329)
+11:28 22:37:45.652 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:37:45.667 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:37:45.667 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:37:45.671 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:38:53.539 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19240 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:38:53.542 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:39:01.533 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 8.313 seconds (JVM running for 11.345)
+11:28 22:39:01.552 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:39:01.835 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:39:01.836 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:39:01.841 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:39:04.547 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:39:04.596 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:39:16.876 [http-nio-9000-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:39:16.881 [http-nio-9000-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:42:04.061 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 19240 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:42:04.061 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:42:06.390 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 2.388 seconds (JVM running for 196.204)
+11:28 22:42:06.394 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:42:06.413 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:42:06.414 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:42:06.416 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:44:12.098 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 20360 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:44:12.100 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:44:21.908 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:44:21.989 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:44:21.989 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:44:21.992 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:44:21.993 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 10.126 seconds (JVM running for 12.503)
+11:28 22:44:26.340 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:44:26.399 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:46:06.229 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 8388 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:46:06.234 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:46:16.294 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:46:16.368 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:46:16.368 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:46:16.369 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:46:16.371 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 10.503 seconds (JVM running for 13.758)
+11:28 22:46:19.395 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:46:19.444 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:47:40.138 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 8388 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:47:40.138 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:48:25.257 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 17692 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:48:25.259 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:48:33.775 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:48:33.850 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:48:33.850 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:48:33.852 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:48:33.854 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 8.836 seconds (JVM running for 11.107)
+11:28 22:48:37.471 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:48:37.534 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:49:46.322 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 1712 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:49:46.324 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:49:57.530 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:49:57.613 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:49:57.613 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:49:57.616 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:49:57.618 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 11.672 seconds (JVM running for 13.159)
+11:28 22:50:01.924 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:50:01.996 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:50:19.494 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 18772 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:50:19.496 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:50:32.261 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:50:32.926 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:50:32.927 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:50:32.940 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:50:32.947 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 13.672 seconds (JVM running for 15.151)
+11:28 22:50:34.999 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 22:50:35.259 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 22:51:45.473 [http-nio-9000-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 22:51:45.487 [http-nio-9000-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
+11:28 22:52:23.926 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 22:52:23.927 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
+11:28 22:52:32.652 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 18772 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:52:32.652 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:52:35.409 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:52:35.425 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:52:35.426 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:52:35.429 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:52:35.430 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 2.83 seconds (JVM running for 137.633)
+11:28 22:52:40.114 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 22:52:40.119 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
+11:28 22:53:32.775 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 18772 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:53:32.775 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:53:35.587 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:53:35.609 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:53:35.609 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:53:35.611 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:53:35.611 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 2.928 seconds (JVM running for 197.814)
+11:28 22:53:38.593 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 22:53:38.598 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
+11:28 22:54:49.884 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 18772 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:54:49.884 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:58:35.380 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 11348 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 22:58:35.384 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 22:58:45.315 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:58:45.402 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:58:45.402 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 22:58:45.404 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 22:58:45.406 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 10.412 seconds (JVM running for 12.536)
+11:28 22:58:46.730 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 22:58:46.783 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
+11:28 23:00:19.620 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 6252 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 23:00:19.622 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 23:00:29.300 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:00:29.388 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:00:29.389 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:00:29.390 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:00:29.393 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 10.095 seconds (JVM running for 11.76)
+11:28 23:00:31.815 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 23:00:31.850 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
+11:28 23:01:12.476 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 6252 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 23:01:12.476 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 23:01:15.457 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:01:15.472 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:01:15.472 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:01:15.473 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:01:15.474 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.043 seconds (JVM running for 57.84)
+11:28 23:02:13.697 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 6252 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 23:02:13.697 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 23:02:15.941 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:02:15.960 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:02:15.960 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:02:15.962 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:02:15.962 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 2.308 seconds (JVM running for 118.328)
+11:28 23:02:28.458 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 6252 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
+11:28 23:02:28.458 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 23:02:30.551 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:02:30.562 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:02:30.562 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:02:30.564 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:02:30.564 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 2.162 seconds (JVM running for 132.93)
+11:28 23:02:33.659 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindOne
+11:28 23:02:33.665 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindOne
