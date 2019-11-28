@@ -254,3 +254,10 @@
 11:28 23:24:34.925 [http-nio-9000-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindProductsByCategoriesId
 11:28 23:25:24.043 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on DESKTOP-VIURTDK with PID 10064 (started by payal in C:\Users\payal\Downloads\rjtB11-microservicesProj-master (1)\rjtB11-microservicesProj-master\ShoppingAppMicroservices\ShoppingAppProduct)
 11:28 23:25:24.043 [restartedMain] [INFO] [com.example.demo.ProductClient] - The following profiles are active: dev
+11:28 23:25:27.771 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:25:27.798 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:25:27.798 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 23:25:27.802 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 23:25:27.804 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.849 seconds (JVM running for 180.979)
+11:28 23:25:32.362 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindProductsByCategoriesId
+11:28 23:25:32.373 [http-nio-9000-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindProductsByCategoriesId

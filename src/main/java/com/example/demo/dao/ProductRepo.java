@@ -11,6 +11,6 @@ import com.example.demo.dto.Product;
 @Transactional
 public interface ProductRepo extends MongoRepository<Product, String>{
 	
-	@Query(value="{'categories._id': ?0}")
+/*	@Query(value="{'categories._id': ?0}")*/
 	public List<Product> findProductsByCategoriesId(int id);
 }
